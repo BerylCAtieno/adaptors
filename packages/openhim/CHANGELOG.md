@@ -1,5 +1,35 @@
 # @openfn/language-openhim
 
+## 1.0.0 - 14 July 2025
+
+### Major Changes
+
+- 08b6f7b: - Implement `http` namespace with `GET`, `POST`, `PUT`, and `DELETE`
+  - Add `client, tasks, transactions, and channels` functions
+
+### Patch Changes
+
+- Updated dependencies \[9b5a4f8]
+  - @openfn/language-common@3.0.2
+
+## 0.3.16 - 10 July 2025
+
+### Patch Changes
+
+- Updated dependencies \[cf9c09f]
+  - @openfn/language-common@3.0.1
+
+## 0.3.15 - 10 July 2025
+
+### Patch Changes
+
+- Updated dependencies \[ea85695]
+- Updated dependencies \[3fce58f]
+- Updated dependencies \[19f2d7e]
+- Updated dependencies \[f26bd2b]
+- Updated dependencies \[19f2d7e]
+  - @openfn/language-common@3.0.0
+
 ## 0.3.14 - 20 June 2025
 
 ### Patch Changes
